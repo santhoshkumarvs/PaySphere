@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+        Paysphere.ipynb
+        __pycache__/
+        requirements.txt
+        users.db
